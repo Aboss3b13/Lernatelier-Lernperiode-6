@@ -1,17 +1,20 @@
 # Lernatelier-Lernperiode-6
 
-- [ ] All meine Noten vom letzten Jahr wurden korrekt eingetragen.
-- [ ] Ich bin relativ zufrieden mit meine Noten, doch in Modul 187 und Modul 117 könnte ich mehr Mühe geben.
+- [ ] Alle meine Noten vom letzten Jahr wurden korrekt verzeichnet.
+- [ ] Ich bin insgesamt recht zufrieden mit meinen Noten, aber in den Modulen 187 und 117 könnte ich noch mehr Einsatz zeigen.
 
 
 ## Was will ich dieses Jahr arbeiten? Grobplanung
-Letztes Jahr habe ich mit den Grundlagen von Programmieren beschaffen. Ich habe vorallem mit C# beschaffen und Projekte anhand meiner eigenen Willen und Inspiration programmiert. Das soll sich für dieses Jahr ändern. Ich will dieses Jahr Projekten programmieren / erstellen, die etwas mit der Modulen zu tun hat. In dieser Lernperiode will ich vorallem mit Modul 322 mich inspirieren lassen, da es über OOP geht. Ich will in dieser Lernperiode vorallem in C# arbeiten.
+Letztes Jahr habe ich mich mit den Grundlagen der Programmierung beschäftigt, hauptsächlich mit C#. Dabei habe ich Projekte aus eigenem Antrieb und nach meiner Inspiration entwickelt. Dieses Jahr möchte ich jedoch einen anderen Ansatz verfolgen. Ich plane, Projekte zu programmieren, die im Zusammenhang mit den Modulen stehen. Besonders möchte ich mich in dieser Lernperiode von Modul 322 inspirieren lassen, das sich mit objektorientierter Programmierung (OOP) befasst. Mein Fokus wird dabei erneut auf der Arbeit mit C# liegen.
 
 
 ### 16.08.2024
-Heute habe ich ein Wizard Duel Spiel programmiert. In dem geht es man hat zwei Spieler und die kämpfen gegeneinander, indem sie verschiedene Attacken benützen, bis einer der Spieler  ihre Hit-Points (Leben) verliert. Für die zwei Wizards habe ich ein Klasse "Wizard" erstellt. Diese Klasse enthält Attributen wie der Name und Hit-Points. In der Hauptprogramm habe ich die zwei Charaktern kreiert. Doch wie funktioniert der Spiel-Ablauf? Ich habe ein Hauptfuntion addiert, das in ein While-Loop zwei Mal vorkommt, mit die Argumente von die zwei Spielern (wizard1 und wizard2). Dieser While-Loop endet wenn einer der Wizard ihre Hit-Points verloren hat. In dieser Hauptfunktion wird ein anderer Funktion gerufen das die Attacken bestimmt.
+Heute habe ich ein Wizard-Duel-Spiel programmiert. In diesem Spiel kämpfen zwei Spieler, die jeweils als Zauberer (Wizards) agieren, gegeneinander. Ziel ist es, den Gegner durch verschiedene Angriffe so lange zu bekämpfen, bis einer der beiden seine Lebenspunkte (Hit-Points) verliert. 
+
+Für die beiden Zauberer habe ich eine Klasse namens „Wizard“ erstellt. Diese Klasse enthält Attribute wie den Namen und die Hit-Points. Im Hauptprogramm habe ich die beiden Charaktere erstellt. Doch wie läuft das Spiel ab?
+
+Ich habe eine Hauptfunktion hinzugefügt, die in einer While-Schleife zweimal mit den Argumenten der beiden Spieler (wizard1 und wizard2) aufgerufen wird. Diese While-Schleife endet, sobald einer der Zauberer seine Hit-Points vollständig verloren hat. Innerhalb dieser Hauptfunktion wird eine weitere Funktion aufgerufen, die die Angriffe der Zauberer bestimmt.
 
 ### Für nächstes Mal
-- [ ] Für nächstes Mal will ich Methoden / Funktionen innerhalb mein Code tun
-- [ ] Ich will mehrere Klassen innerhalb vom Projekt haben
-- [ ] Ich will über Inheritance lernen
+- [ ] Beim nächsten Mal möchte ich Methoden und Funktionen in meinen Code integrieren.  
+- [ ] Ich plane, mehrere Klassen in das Projekt einzubauen. 

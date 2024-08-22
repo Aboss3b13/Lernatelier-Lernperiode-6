@@ -19,4 +19,4 @@ Ich habe eine Hauptfunktion hinzugefügt, die in einer While-Schleife zweimal mi
 - [ ] Beim nächsten Mal möchte ich Methoden und Funktionen in meinen Code integrieren.  
 - [ ] Ich plane, mehrere Klassen in das Projekt einzubauen.
 - [ ] Python auf mein Laptop istallieren
-- [ ] Pzthon Syntax lernen
+- [ ] Python Syntax lernen

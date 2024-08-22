@@ -5,7 +5,7 @@
 
 
 ## Was will ich dieses Jahr arbeiten? Grobplanung
-Letztes Jahr habe ich mich mit den Grundlagen der Programmierung beschäftigt, hauptsächlich mit C#. Dabei habe ich Projekte aus eigenem Antrieb und nach meiner Inspiration entwickelt. Dieses Jahr möchte ich jedoch einen anderen Ansatz verfolgen. Ich plane, Projekte zu programmieren, die im Zusammenhang mit den Modulen stehen. Besonders möchte ich mich in dieser Lernperiode von Modul 322 inspirieren lassen, das sich mit objektorientierter Programmierung (OOP) befasst. Mein Fokus wird dabei erneut auf der Arbeit mit C# liegen.
+Letztes Jahr habe ich mich mit den Grundlagen der Programmierung beschäftigt, hauptsächlich mit C#. Dabei habe ich Projekte aus eigenem Antrieb und nach meiner Inspiration entwickelt. Dieses Jahr möchte ich jedoch einen anderen Ansatz verfolgen. Ich plane, Projekte zu programmieren, die im Zusammenhang mit den Modulen stehen. Besonders möchte ich mich in dieser Lernperiode von Modul 322 inspirieren lassen, das sich mit objektorientierter Programmierung (OOP) befasst. Mein Fokus wird dabei erneut auf der Arbeit mit C# liegen. Ich will Python als Zusatz lernen, da wir später ein wichtiges Modul über dem haben.
 
 
 ### 16.08.2024
@@ -17,4 +17,6 @@ Ich habe eine Hauptfunktion hinzugefügt, die in einer While-Schleife zweimal mi
 
 ### Für nächstes Mal
 - [ ] Beim nächsten Mal möchte ich Methoden und Funktionen in meinen Code integrieren.  
-- [ ] Ich plane, mehrere Klassen in das Projekt einzubauen. 
+- [ ] Ich plane, mehrere Klassen in das Projekt einzubauen.
+- [ ] Python auf mein Laptop istallieren
+- [ ] Pzthon Syntax lernen

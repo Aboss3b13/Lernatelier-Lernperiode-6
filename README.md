@@ -20,3 +20,12 @@ Ich habe eine Hauptfunktion hinzugefügt, die in einer While-Schleife zweimal mi
 - [ ] Ich plane, mehrere Klassen in das Projekt einzubauen.
 - [ ] Python auf mein Laptop istallieren
 - [ ] Python Syntax lernen
+
+### 23.08.2024
+Heute habe ich weiter an meinem Wizard-Duel-Spiel gearbeitet und dabei einige neue Funktionen wie „Self-Defense“ integriert. Anschliessend habe ich Python über den Microsoft Store heruntergeladen und damit experimentiert. Mit Unterstützung von ChatGPT habe ich ein Screenshot-Skript entwickelt, um die Möglichkeiten von Python zu erkunden. In Zukunft möchte ich Python verstärkt für meine Projekte nutzen.
+
+### Für nächstes Mal
+- [ ] In Python mich gewöhnen
+- [ ] Ein Programm in C# erstellen das mehrere Klassen benützt
+- [ ] Ein guter Projekt Idee finden. (Z.B Ein App der etwas cooles macht)
+- [ ] Dieser Projekt starten

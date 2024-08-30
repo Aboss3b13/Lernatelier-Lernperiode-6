@@ -29,3 +29,14 @@ Heute habe ich weiter an meinem Wizard-Duel-Spiel gearbeitet und dabei einige ne
 - [ ] Ein Programm in C# erstellen das mehrere Klassen benützt
 - [ ] Ein guter Projekt Idee finden. (Z.B Ein App der etwas cooles macht)
 - [ ] Dieser Projekt starten
+
+
+### 30.08.2024
+Heute habe ich vorrallem in Python mich wohl gemacht. Ich habe ein taschenrechner programmiert. Ich habe die vier Grundlage Operationen rein getan plus Quadrat und Wurzel Quadrat. Ich habe mir entschieden Ich werde ein Flashcard ersteller auf C# in ein Windows Form App programmieren. Dieser App soll dir erlauben Flashcards von verschiedene Fächern erstellen so viel das man will. Die Daten werden im Notepad gespeichert und über E-Mail zu mir geschickt wenn erstellt als ein Backup. Ich habe auch mehr Featuers im Wizard Spiel von letzten Mal addiert.
+
+### Für nächstes Mal
+- [ ] In Python mich gewöhnen
+- [ ] Mein LB Projekt für Modul 231 in Python umsetzten.
+- [ ] Dieser Flashcard App in C# beginnen zu programmieren.
+      
+

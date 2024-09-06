@@ -36,7 +36,17 @@ Heute habe ich vorrallem in Python mich wohl gemacht. Ich habe ein taschenrechne
 
 ### Für nächstes Mal
 - [ ] In Python mich gewöhnen
-- [ ] Mein LB Projekt für Modul 231 in Python umsetzten.
+- [ ] Mein LB Projekt für Modul 122 in Python umsetzten.
 - [ ] Dieser Flashcard App in C# beginnen zu programmieren.
+
+### 06.09.2024
+
+Heute habe ich mein LB Projekt von Modul 122 in Python umgesetzt. Nachdem habe ich mit den Flashcard Applikation fertigt gestalten und begonnen zu programmieren.
+
+### Für nächstes Mal
+- [ ] In Python Tic Tac Toe programmieren
+- [ ] Weiter an meinen Flashcard Applikation arbeiten.
+
+
       
 

@@ -44,6 +44,13 @@ Heute habe ich vorrallem in Python mich wohl gemacht. Ich habe ein taschenrechne
 Heute habe ich mein LB Projekt von Modul 122 in Python umgesetzt, weil es ein anspruchsvoller Auftrag war. Nachdem habe ich mit den Flashcard Applikation fertigt gestalten und begonnen zu programmieren.
 
 ### Für nächstes Mal
+- [ ] Pokemon Website erstellen
+- [ ] Disign vom website
+- [ ] lernen wie ich Konten erstellen kann
+
+Heute hatte ich die Idee ein Website zu programmieren das über Pokemon geht. Es soll die Battles im 2d Format simulieren. Für heute habe ich den Disign der Homepage, Play-Page , Pokedex und Trade gestaltet. Ich habe recherchiert und werde Konten mit Firebase erstellen.
+
+### Für nächstes Mal
 - [ ] Ich will eine Website erstellen (Chat App)
 - [ ] Ich will Firebase einrichten
 - [ ] Die Beiden verbinden

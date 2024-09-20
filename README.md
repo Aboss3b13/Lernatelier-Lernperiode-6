@@ -44,8 +44,13 @@ Heute habe ich vorrallem in Python mich wohl gemacht. Ich habe ein taschenrechne
 Heute habe ich mein LB Projekt von Modul 122 in Python umgesetzt, weil es ein anspruchsvoller Auftrag war. Nachdem habe ich mit den Flashcard Applikation fertigt gestalten und begonnen zu programmieren.
 
 ### Für nächstes Mal
-- [ ] In Python Tic Tac Toe programmieren
-- [ ] Weiter an meinen Flashcard Applikation arbeiten.
+- [ ] Ich will eine Website erstellen (Chat App)
+- [ ] Ich will Firebase einrichten
+- [ ] Die Beiden verbinden
+
+### 20.09.2024
+
+
 
 
       

@@ -48,6 +48,7 @@ Heute habe ich mein LB Projekt von Modul 122 in Python umgesetzt, weil es ein an
 - [ ] Disign vom website
 - [ ] lernen wie ich Konten erstellen kann
 
+### 13.09.2024
 Heute hatte ich die Idee ein Website zu programmieren das über Pokemon geht. Es soll die Battles im 2d Format simulieren. Für heute habe ich den Disign der Homepage, Play-Page , Pokedex und Trade gestaltet. Ich habe recherchiert und werde Konten mit Firebase erstellen.
 
 ### Für nächstes Mal
